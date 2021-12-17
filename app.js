@@ -31,3 +31,8 @@ const game = () => {
 				// Calling gameOver function after 10 moves
 				if(moves == 10){
 					gameOver(playerOptions,movesLeft);
+				}
+			})
+		})
+		
+	}
